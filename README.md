@@ -1,2 +1,2 @@
-# nn
+# NeuralNetwork
 Neural Network mini projects
