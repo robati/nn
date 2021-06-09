@@ -1,0 +1,1 @@
+multi-layer perceptron (MLP) to classify MNIST .
